@@ -22,7 +22,7 @@
                     <li><a href="penduduk.php">Data Desa</a></li>
                     <li><a href="berita.php">berita</a></li>
                     <li><a href="login/login.php">Login</a></li>
-                    <li><a href="">tjktytyutu55</a></li>
+                    <li><a href="">ygiyighkjbugk</a></li>
                 </ul>
             </nav>  
         </div>
