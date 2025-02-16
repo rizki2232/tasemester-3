@@ -20,7 +20,7 @@
                     <li><a href="profildesa.php">Profil Desa</a></li>
                     <li><a href="Pemerintahan.php">Pemerintahan</a></li>
                     <li><a href="penduduk.php">Data Desa</a></li>
-                    <li><a href="berita.php">hohoasndjoas</a></li>
+                    <li><a href="berita.php">hohohoa</a></li>
                     <li><a href="login/login.php">Login</a></li>
                     <li><a href="">ygiyighkjbugk</a></li>
                 </ul>
